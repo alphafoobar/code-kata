@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!DOCTYPE suppressions PUBLIC
+  "-//Puppy Crawl//DTD Suppressions 1.1//EN"
+  "http://www.puppycrawl.com/dtds/configuration_1_3.dtd">
+
+<suppressions>
+  <!-- See https://stackoverflow.com/a/25898007/7421645 -->
+  <suppress checks="AbbreviationAsWordInName" files="[\\/]src[\\/]test[\\/].*"/>
+</suppressions>
