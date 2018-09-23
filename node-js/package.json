@@ -1,0 +1,16 @@
+{
+  "description": "JavaScript project to practise writing better JavaScript",
+  "author": "developers@bravenewcoin.com",
+  "devDependencies": {
+    "eslint": "5.0.1",
+    "jest": "23.2.0"
+  },
+  "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "jest": {
+    "collectCoverage": true
+  }
+}
