@@ -8,8 +8,8 @@
     <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Kata02_BinarySearch.Tests</RootNamespace>
-    <AssemblyName>Kata02_BinarySearch.Tests</AssemblyName>
+    <RootNamespace>tests</RootNamespace>
+    <AssemblyName>tests</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -46,7 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Kata02-BinarySearch\Kata02-BinarySearch.csproj">
+    <ProjectReference Include="..\src\src.csproj">
       <Project>{b84f6292-e4f9-4e18-8265-b9b33a1aae9c}</Project>
       <Name>Kata02-BinarySearch</Name>
     </ProjectReference>
