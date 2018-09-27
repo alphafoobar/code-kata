@@ -29,3 +29,6 @@ Rank is from the [tiobe-index](https://www.tiobe.com/tiobe-index/), this stackif
 | - | Elixir | functional | Runs on the Erlang VM (BEAM) has functional design, but with Ruby-esque style. | 2011 | 
 | - | Erlang | functional | Built by Ericsson | 1986 | 
 | - | TypeScript | object-oriented | Built by Microsoft, transpiles to JavaScript | 2012 | 
+
+# See also
+* Wikipedia's [timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
