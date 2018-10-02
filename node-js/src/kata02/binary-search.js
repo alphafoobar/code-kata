@@ -1,6 +1,6 @@
+/*eslint no-unused-vars: "off"*/
 'use strict';
 
-<<<<<<< Updated upstream
 /**
  * Solution 1.
  * Recursively seeks the key, slices arrays and requires an offset to remain true.
@@ -26,26 +26,28 @@ const chop1 = (key, array) => {
     return Promise.resolve(chopWorker(key, array, 0));
 };
 
-module.exports = chop1;
-=======
+/**
+ * Solution 2.
+ * Recursively seeks the key, slices arrays and requires an offset to remain true. Doesn't pass any offset.
+ */
 const binarySearch = (key, array) => {
-    
+
     let length = array.length;
-    let midpoint = Math.floor(length/2);
+    let midpoint = Math.floor(length / 2);
     let val = array[midpoint];
 
-    if(length < 1){
+    if (length < 1) {
         return Promise.resolve(-1);
     }
 
-    if(val === key){
+    if (val === key) {
         return Promise.resolve(midpoint);
-    } else if(val > key) {
+    } else if (val > key) {
         return binarySearch(key, array.slice(0, midpoint));
     }
 
-    return binarySearch(key, array.slice(midpoint + 1)).then( index => {
-        if( index === -1){
+    return binarySearch(key, array.slice(midpoint + 1)).then(index => {
+        if (index === -1) {
             return index;
         }
         return midpoint + 1 + index;
@@ -53,4 +55,3 @@ const binarySearch = (key, array) => {
 };
 
 module.exports = binarySearch;
->>>>>>> Stashed changes
