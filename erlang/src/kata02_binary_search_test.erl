@@ -9,6 +9,9 @@ single_item_list_test() ->
   [?assertEqual(-1, kata02_binary_search:chop(3, [1])),
     ?assertEqual(0, kata02_binary_search:chop(1, [1]))].
 
+can_find_first_result_test() ->
+  ?assertEqual(1, kata02_binary_search:chop(3, [1,3,5,7])).
+
 triple_item_list_test() ->
   [?assertEqual(0, kata02_binary_search:chop(1, [1,3,5])),
     ?assertEqual(1, kata02_binary_search:chop(3, [1,3,5])),

@@ -16,3 +16,22 @@ In JVM technologies, Erlang is most similar to Scala Play.
  You must also:
  * Install Erlang
  * Build Rebar
+
+# How to `hello world` Erlang
+
+```
+ io:fwrite("~s ~s~n", ["hello", "world"]). 
+```
+
+See [format/1](http://erlang.org/doc/man/io.html#format-1) for more details.
+
+# Where to learn more about Erlang
+
+* https://learnyousomeerlang.com/content
+* http://www.erlang.org/course
+
+# Run Erlang interpreter
+
+```
+erl
+```
