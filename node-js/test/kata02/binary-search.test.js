@@ -1,6 +1,6 @@
 'use strict';
 
-const chop = require('../src/kata02-binary-search');
+const chop = require('../../src/kata02/binary-search');
 
 test('Empty list handled', () => {
     expect.assertions(1);
