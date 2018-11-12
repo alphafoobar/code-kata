@@ -3,7 +3,8 @@
   "author": "developers@bravenewcoin.com",
   "devDependencies": {
     "eslint": "5.0.1",
-    "jest": "23.2.0"
+    "jest": "23.2.0",
+    "merge": "1.2.1"
   },
   "scripts": {
     "pretest": "eslint --ignore-path .gitignore .",
