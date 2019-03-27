@@ -1,35 +1,49 @@
 # code-kata
-Exercising in improving software development.
+
+Exercising in improving software development through practise and repition.
 
 # about
 
 * These are from katas on [CodeKata](http://codekata.com/).
 * Intention to build the starting point for a collection of common and interesting languages and styles.
 
-# languages
+I intend to build the coverage of katas in the same style. With the `master` branch containing `katas` and `koans` to be solved and another branch for `solutions`. There is huge crossover of ideas between different languages and paradigms, this is a way of exploring those.
 
-Rank is from the [tiobe-index November 2018](https://www.tiobe.com/tiobe-index/), this stackify article [influential programming languages 2018](https://stackify.com/popular-programming-languages-2018/) is also intersting.
+# languages i'd like to be stronger in
 
-| Rank | Language | Paradigm | Description | Why? | Introduced |
-|---|---|---|---|---|---|
-| 1 | Java | object-oriented | `write once, run anywhere` Java applications run on the JVM | | 1995 |
-| 2 | C | imperative | c is designed for speed, portability and universal availability, often used for operating systems | | 1972 | 
-| 3 | C++ | general-purpose / oop | | | 1985 | 
-| 4 | Python | general-purpose / oop | interpreted language, recently gaining popularity in sceintific and statistical uses | Popular in Data Science, used with Spark| 1990 | 
-| 6 | C# | object-oriented | | | 2000 | 
-| 7 | JavaScript | weakly typed prototype-based | | Most used language on GitHub, useful for UI and Lamda functions| 1995 | 
-| 8 | PHP | server-side scripting | | | 1995 | 
-| 10 | Go | general-purpose / oop | | Powerful native compiled language, used when speed is required | 2009 | 
-| 12 | Swift | general-purpose / oop | Used to build iOS apps | | 2014 | 
-| 16 | Ruby | object-oriented | | Popular for web development, also used in Travis, Logstash and CoinGecko | 1995 | 
-| 29 | Scala | functional | JVM language | Functional language, used to power Twitter, Kafka and Spark. Can be used for Spark anyltics | 2004 | 
-| 37 | Rust | imperative | | | 2010 | 
-| 41 | Kotlin | general-purpose / oop | JVM language | Multi-paradigm supports OOP and Functional, popular language for Android apps | 2011 | 
-| 42 | Haskell | functional | An advanced, purely functional programming language | | 1990 | 
-| 48 | Erlang | functional |`write once, run forever` Built by Ericsson | | 1986 | 
-| - | Clojure | functional | JVM language | | 2007 | 
-| - | Elixir | functional | Runs on the Erlang VM (BEAM) has functional design, but with Ruby-esque style. | | 2011 | 
-| - | TypeScript | object-oriented | Built by Microsoft, transpiles to JavaScript | | 2012 | 
+Rank is from the [tiobe-index November 2018](https://www.tiobe.com/tiobe-index/), this stackify article [influential programming languages 2018](https://stackify.com/popular-programming-languages-2018/) is also intersting. And considering this [report](https://www.oreilly.com/ideas/3-emerging-trends-tech-leaders-should-watch) from o'reilly.
+
+| My Rank | Tiobe Rank | Language | Repository | Katas / Koans completed () |
+|---|---|---|---|---|
+| 1 | 1 | Java | [code-kata-java](https://github.com/alphafoobar/code-kata-java) | 1 |
+| 2 | 3 | C++ | [code-kata-cpp](https://github.com/alphafoobar/code-kata-cpp) | 0 |
+| 3 | 7 | JavaScript | - | 0 | 
+| 4 | 10 | Go | - | 0 | 
+| 5 | 29 | Scala | - | 0 | 
+| 6 | 41 | Kotlin | - | 0 | 
+| 7 | 48 | Erlang | - | 0 | 
+
+# more languages i'd like to be stronger in... but who has the time?
+
+| 8 | 2 | C | - | 0 | 
+| 9 | 4 | Python | - | 0 | 
+| 10 | 37 | Rust |- | 0 | 
+| 11 | 42 | Haskell | [code-kata-haskell](https://github.com/alphafoobar/code-kata-haskell) | 0 | 
+
+# even more languages... but who has the time?
+
+| ? | 6 | C# | - | 0 | 
+| ? | 8 | PHP | - | 0 | 
+| ? | 12 | Assembly language | - | 0 | 
+| ? | 16 | Ruby | - | 0 | 
+| ? | - | Clojure (Lisp family on JVM) | - | 0 | 
+| ? | - | LFE (Lisp family on Erlang/BEAM) | - | 0 | 
+| ? | - | Elixir (Ruby-esque on Erlang/BEAM) | - | 0 | 
+
+# even more languages... but who has the time?
+
+| ? | 12 | Swift | general-purpose / oop | Used to build iOS apps | | 2014 | 
+| ? | - | TypeScript | object-oriented | Built by Microsoft, transpiles to JavaScript | | 2012 | 
 
 # See also
 * Wikipedia's [timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
