@@ -17,7 +17,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 |---|---|---|---|---|
 | 1 | 1 | Java | [code-kata-java](https://github.com/alphafoobar/code-kata-java) | 1 |
 | 2 | 4 | C++ | [code-kata-cpp](https://github.com/alphafoobar/code-kata-cpp) | 0 |
-| 3 | 7 | JavaScript | - | 0 | 
+| 3 | 7 | JavaScript | [code-kata-javascript](https://github.com/alphafoobar/code-kata-javascript) | 1 | 
 | 4 | 18 | Go | - | 0 | 
 | 5 | 28 | Scala | - | 0 | 
 | 6 | 39 | Kotlin | - | 0 | 
