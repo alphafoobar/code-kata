@@ -21,7 +21,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | 4 | 18 | Go | [code-kata-go](https://github.com/alphafoobar/code-kata-go) | 0 | 
 | 5 | 28 | Scala | [code-kata-scala](https://github.com/alphafoobar/code-kata-scala) | 0 | 
 | 6 | 39 | Kotlin | [code-kata-kotlin](https://github.com/alphafoobar/code-kata-kotlin) | 0 | 
-| 7 | 49 | Erlang | - | 0 | 
+| 7 | 49 | Erlang | [code-kata-erlang](https://github.com/alphafoobar/code-kata-erlang) | 0 | 
 
 # more languages i'd like to be stronger in... but who has the time?
 
