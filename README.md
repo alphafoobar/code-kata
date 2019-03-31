@@ -39,7 +39,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | ? | 6 | C# | [code-kata-csharp](https://github.com/alphafoobar/code-kata-csharp) | 0 | 
 | ? | 8 | PHP | [code-kata-php](https://github.com/alphafoobar/code-kata-php) | 0 | 
 | ? | 12 | Assembly language | - | 0 | 
-| ? | 15 | Ruby | - | 0 | 
+| ? | 15 | Ruby | [code-kata-ruby](https://github.com/alphafoobar/code-kata-ruby) | 0 | 
 | ? | - | Clojure (Lisp family on JVM) | [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | 0 | 
 | ? | - | LFE (Lisp family on Erlang/BEAM) | - | 0 | 
 | ? | - | Elixir (Ruby-esque on Erlang/BEAM) | - | 0 | 
