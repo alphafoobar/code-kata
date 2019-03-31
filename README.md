@@ -27,7 +27,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 
 | My Rank | Tiobe Rank | Language | Repository | Katas / Koans completed () |
 |---|---|---|---|---|
-| 8 | 2 | C | - | 0 | 
+| 8 | 2 | C | [code-kata-c](https://github.com/alphafoobar/code-kata-c) | 0 | 
 | 9 | 3 | Python | - | 0 | 
 | 10 | 35 | Rust |- | 0 | 
 | 11 | 43 | Haskell | [code-kata-haskell](https://github.com/alphafoobar/code-kata-haskell) | 0 | 
