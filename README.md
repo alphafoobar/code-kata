@@ -4,10 +4,13 @@ Exercising in improving software development through practise and repition.
 
 # about
 
-* These are from katas on [CodeKata](http://codekata.com/).
+* These are from katas on [CodeKata](http://codekata.com/), as a starting point.
 * Intention to build the starting point for a collection of common and interesting languages and styles.
+* Languages will be expanded to include koans and other popular learning materials.
 
 I intend to build the coverage of katas in the same style. With the `master` branch containing `katas` and `koans` to be solved and another branch for `solutions`. There is huge crossover of ideas between different languages and paradigms, this is a way of exploring those.
+
+All projects have been built using one of the JetBrains IDEs specific for the language.
 
 # languages i'd like to be stronger in
 
