@@ -34,7 +34,6 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | ? | 12 | Assembly language | - | 0 |  ? |
 | ? | 15 | Ruby | [code-kata-ruby](https://github.com/alphafoobar/code-kata-ruby) | 0 |  ? |
 | ? | - | Clojure (Lisp family on JVM) | [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | 0 |  ? |
-| ? | - | LFE (Lisp family on Erlang/BEAM) | - | 0 |  ? |
 | ? | - | Elixir (Ruby-esque on Erlang/BEAM) | [code-kata-elixir](https://github.com/alphafoobar/code-kata-elixir) | 0 |  ? |
 | ? | - | Groovy | [code-kata-groovy](https://github.com/alphafoobar/code-kata-groovy) | 0 | ? |
 
