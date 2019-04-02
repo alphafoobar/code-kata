@@ -1,1 +1,0 @@
-void print_log(char *test_name, char *message);

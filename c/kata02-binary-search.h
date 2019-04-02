@@ -1,1 +1,0 @@
-int chop(int key, int array[]);
