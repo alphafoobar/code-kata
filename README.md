@@ -19,7 +19,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | My Rank | Tiobe Rank | Language | Repository | Katas | Koans |
 |---|---|---|---|---|---|
 | 1 | 1 | Java | [code-kata-java](https://github.com/alphafoobar/code-kata-java) | 2 | ? |
-| 2 | 4 | C++ | [code-kata-cpp](https://github.com/alphafoobar/code-kata-cpp) | 2 | ? |
+| 2 | 4 | C++ | [code-kata-cpp](https://github.com/alphafoobar/code-kata-cpp) | 3 | ? |
 | 3 | 7 | JavaScript | [code-kata-javascript](https://github.com/alphafoobar/code-kata-javascript) | 1 |  ? |
 | 4 | 18 | Go | [code-kata-go](https://github.com/alphafoobar/code-kata-go) | 0 |  ? |
 | 5 | 28 | Scala | [code-kata-scala](https://github.com/alphafoobar/code-kata-scala) | 0 |  ? |
