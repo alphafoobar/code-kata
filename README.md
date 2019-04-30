@@ -16,8 +16,8 @@ All projects have been built using one of the JetBrains IDEs specific for the la
 
 Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), this stackify article [influential programming languages 2018](https://stackify.com/popular-programming-languages-2018/) is also intersting. And considering this [report](https://www.oreilly.com/ideas/3-emerging-trends-tech-leaders-should-watch) from o'reilly.
 
-| My Rank | Tiobe Rank | Language | Repository | | Katas | Koans |
-|---|---|---|---|---|---|
+| My Rank | Tiobe Rank | Language | Repository | build | Katas | Koans |
+|---|---|---|---|---|---|---|
 | 1 | 1 | Java | [code-kata-java](https://github.com/alphafoobar/code-kata-java) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-java.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-java) | 2 | ? |
 | 2 | 4 | C++ | [code-kata-cpp](https://github.com/alphafoobar/code-kata-cpp) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-cpp.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-cpp) | 3 | ? |
 | 3 | 7 | JavaScript | [code-kata-javascript](https://github.com/alphafoobar/code-kata-javascript) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-javascript.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-javascript) | 1 |  ? |
