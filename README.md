@@ -29,13 +29,12 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | 9 | 3 | Python | [code-kata-python](https://github.com/alphafoobar/code-kata-python) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-python.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-python)| 1 |  ? |
 | 10 | 35 | Rust | [code-kata-rust](https://github.com/alphafoobar/code-kata-rust) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-rust.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-rust)| 1 |  ? |
 | 11 | 43 | Haskell | [code-kata-haskell](https://github.com/alphafoobar/code-kata-haskell) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-haskell.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-haskell)| 0 |  ? |
-| ? | 6 | C# | [code-kata-csharp](https://github.com/alphafoobar/code-kata-csharp) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-csharp.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-csharp)| 0 |  ? |
-| ? | 8 | PHP | [code-kata-php](https://github.com/alphafoobar/code-kata-php) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-php.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-php)| 0 |  ? |
-| ? | 12 | Assembler | - | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-assembler.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-assembler) | 0 |  ? |
-| ? | 15 | Ruby | [code-kata-ruby](https://github.com/alphafoobar/code-kata-ruby) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-ruby.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-ruby) | 0 |  ? |
-| ? | - | Clojure| [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-clojure.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-clojure)| 0 |  ? |
-| ? | - | Elixir | [code-kata-elixir](https://github.com/alphafoobar/code-kata-elixir) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-elixir.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-elixir)| 0 |  ? |
-| ? | - | Groovy | [code-kata-groovy](https://github.com/alphafoobar/code-kata-groovy) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-groovy.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-groovy)| 0 | ? |
+| 12 | 6 | C# | [code-kata-csharp](https://github.com/alphafoobar/code-kata-csharp) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-csharp.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-csharp)| 0 |  ? |
+| 13 | 8 | PHP | [code-kata-php](https://github.com/alphafoobar/code-kata-php) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-php.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-php)| 0 |  ? |
+| 14 | 15 | Ruby | [code-kata-ruby](https://github.com/alphafoobar/code-kata-ruby) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-ruby.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-ruby) | 0 |  ? |
+| 15 | - | Clojure| [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-clojure.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-clojure)| 0 |  ? |
+| 16 | - | Elixir | [code-kata-elixir](https://github.com/alphafoobar/code-kata-elixir) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-elixir.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-elixir)| 0 |  ? |
+| 17 | - | Groovy | [code-kata-groovy](https://github.com/alphafoobar/code-kata-groovy) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-groovy.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-groovy)| 0 | ? |
 
 # See also
 * Wikipedia's [timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
