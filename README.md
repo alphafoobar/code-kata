@@ -34,7 +34,7 @@ Rank is from the [tiobe-index March 2019](https://www.tiobe.com/tiobe-index/), t
 | 14 | 15 | Ruby | [code-kata-ruby](https://github.com/alphafoobar/code-kata-ruby) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-ruby.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-ruby) | 1 | [Ruby Koans](https://github.com/edgecase/ruby_koans) | [Ruby Philosophy](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Philosophy) |
 | 15 | - | Clojure| [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-clojure.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-clojure)| 1 |  [clojure koans](http://clojurescriptkoans.com/) | |
 | 16 | - | Elixir | [code-kata-elixir](https://github.com/alphafoobar/code-kata-elixir) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-elixir.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-elixir)| 0 | [elixirkoans.io](http://elixirkoans.io/) | |
-| 17 | - | Groovy | [code-kata-groovy](https://github.com/alphafoobar/code-kata-groovy) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-groovy.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-groovy)| 0 | [groovy koans](http://nadavc.github.io/groovykoans/) | |
+| 17 | - | Groovy | [code-kata-groovy](https://github.com/alphafoobar/code-kata-groovy) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-groovy.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-groovy)| 1 | [groovy koans](http://nadavc.github.io/groovykoans/) | |
 
 # See also
 * Wikipedia's [timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
