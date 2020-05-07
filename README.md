@@ -35,6 +35,7 @@ Rank is from the [tiobe-index August 2019](https://www.tiobe.com/tiobe-index/), 
 | - | Erlang | [code-kata-erlang](https://github.com/alphafoobar/code-kata-erlang) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-erlang.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-erlang)| 1 | [erlang koans](https://github.com/patrickgombert/erlang-koans) | |
 | - | Clojure| [code-kata-clojure](https://github.com/alphafoobar/code-kata-clojure) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-clojure.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-clojure)| 1 |  [clojure koans](http://clojurescriptkoans.com/) | |
 | - | Elixir | [code-kata-elixir](https://github.com/alphafoobar/code-kata-elixir) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-elixir.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-elixir)| 1 | [elixirkoans.io](http://elixirkoans.io/) | |
+| - | COBOL | [code-kata-cobol](https://github.com/alphafoobar/code-kata-cobol) | [![Build Status](https://travis-ci.com/alphafoobar/code-kata-cobol.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-cobol)| - | | |
 
 # See also
 * Wikipedia's [timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
